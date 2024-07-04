@@ -90,4 +90,4 @@ Students can extend this project by adding:
 **Nadir Ali Khan**
 Founder & Instructor — *Team NAK / Al-Mehdi Foundation*
 📍 Sukkur, Pakistan
-<!-- updated: 2024-03-16-r01 -->
+<!-- updated: 2024-07-04-r01 -->
